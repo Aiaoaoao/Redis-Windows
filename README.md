@@ -1,0 +1,2 @@
+# Redis-Windows
+Windows下的redis服务端和Windows下的redis客户端
